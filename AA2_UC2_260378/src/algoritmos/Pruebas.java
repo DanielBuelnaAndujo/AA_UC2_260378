@@ -1,4 +1,4 @@
-package aa2_uc2_260378;
+package algoritmos;
 
 /**
  *
@@ -13,8 +13,9 @@ public class Pruebas {
         int[] a = {10, 20, 11, 12, 13};
         //Ordenamiento.insercion(a);
         int[] b = {5, 1, 3};
-        Ordenamiento.burbuja(b);
-        Ordenamiento.mostrar(b);
+        int[] c = {12, 20, 11, 13, 10};
+        Ordenamiento.insercion(c);
+        Ordenamiento.mostrar(c);
     }
     
 }

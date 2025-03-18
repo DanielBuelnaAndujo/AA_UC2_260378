@@ -1,4 +1,4 @@
-package aa2_uc2_260378;
+package algoritmos;
 
 /**
  *
